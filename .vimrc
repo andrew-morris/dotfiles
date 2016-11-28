@@ -21,3 +21,4 @@ set shiftwidth=4
 set autoindent
 set expandtab
 set clipboard=unnamed
+set backspace=start,eol,indent
