@@ -22,5 +22,7 @@ set autoindent
 set expandtab
 set clipboard=unnamed
 set backspace=start,eol,indent
+imap <C-a> <Home>
+imap <C-e> <End>
 
 """ Here's a change
