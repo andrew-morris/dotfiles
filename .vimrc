@@ -14,6 +14,7 @@ filetype plugin indent on    " required
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 set nu
+set nowrap """ disable line wrapping
 syntax on
 set tabstop=4
 set softtabstop=4
@@ -24,5 +25,6 @@ set clipboard=unnamed
 set backspace=start,eol,indent
 imap <C-a> <Home>
 imap <C-e> <End>
+
 
 """ Here's a change
